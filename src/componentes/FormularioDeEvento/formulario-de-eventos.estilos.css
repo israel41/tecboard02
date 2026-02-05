@@ -8,3 +8,13 @@
   max-width: 90%;
   margin: 64px auto;
 }
+
+.campos{
+  display: flex;
+  gap: 16px;
+  flex-direction: column ;
+}
+
+.acoes{
+  margin-top: 32px;
+}

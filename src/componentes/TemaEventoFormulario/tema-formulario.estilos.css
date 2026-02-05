@@ -1,0 +1,17 @@
+.temaEvento {
+  background-color: transparent;
+  border-radius: 8px;
+  border: 1px solid #4a4949;
+  height: 50px;
+  background-color: transparent;
+  color: #4a4949;
+
+  /* Md | Medium */
+  font-size: 16px;
+  line-height: 120%; /* 19.2px */
+  padding: 8px 16px;
+}
+
+.temaEvento option{
+    height: 35px;
+}
